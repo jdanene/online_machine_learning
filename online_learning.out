@@ -1,0 +1,20 @@
+\BOOKMARK [1][-]{section.1}{Online Learning}{}% 1
+\BOOKMARK [2][-]{subsection.1.1}{Expert Problem}{section.1}% 2
+\BOOKMARK [2][-]{subsection.1.2}{Expert Classification Problem under Realizability Assumption}{section.1}% 3
+\BOOKMARK [2][-]{subsection.1.3}{Classification, Randomized Prediction and Expected Regret}{section.1}% 4
+\BOOKMARK [3][-]{subsubsection.1.3.1}{Analyzing Regret under oblivious adversaty}{subsection.1.3}% 5
+\BOOKMARK [3][-]{subsubsection.1.3.2}{ Weighted Average Algorithms}{subsection.1.3}% 6
+\BOOKMARK [3][-]{subsubsection.1.3.3}{Let me wrap this section up with a monologue}{subsection.1.3}% 7
+\BOOKMARK [1][-]{section.2}{Online Convex Optimization}{}% 8
+\BOOKMARK [2][-]{subsection.2.1}{Examples of Online Convex Optimization}{section.2}% 9
+\BOOKMARK [3][-]{subsubsection.2.1.1}{Online Regression}{subsection.2.1}% 10
+\BOOKMARK [3][-]{subsubsection.2.1.2}{Online Spam Filtering}{subsection.2.1}% 11
+\BOOKMARK [3][-]{subsubsection.2.1.3}{Netflix/Spotify Recommendation systems: matrix completion model}{subsection.2.1}% 12
+\BOOKMARK [3][-]{subsubsection.2.1.4}{Universal Portfolio}{subsection.2.1}% 13
+\BOOKMARK [3][-]{subsubsection.2.1.5}{Wrap up of examples}{subsection.2.1}% 14
+\BOOKMARK [2][-]{subsection.2.2}{Gradient Descent}{section.2}% 15
+\BOOKMARK [3][-]{subsubsection.2.2.1}{T-Expansion}{subsection.2.2}% 16
+\BOOKMARK [3][-]{subsubsection.2.2.2}{Convexity}{subsection.2.2}% 17
+\BOOKMARK [3][-]{subsubsection.2.2.3}{Online Sub-Gradient Descent}{subsection.2.2}% 18
+\BOOKMARK [2][-]{subsection.2.3}{Application: Using regret bounds for Gradient Descent and Exponential Weighted Avg}{section.2}% 19
+\BOOKMARK [2][-]{subsection.2.4}{Let me go on a monologue}{section.2}% 20
